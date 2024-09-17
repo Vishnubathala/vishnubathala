@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I'm currently working on<br>Managing cloud infrastructure using Terraform and Ansible<br>Automating everyday tasks and optimizing Azure cloud resources<br>Enhancing cloud security and compliance by addressing CVE vulnerabilities<br>🌱 I'm currently learning<br>Advanced CI/CD pipelines with GitHub Actions<br>Exploring AWS and GCP to broaden my multi-cloud expertise<br>Diving deeper into Kubernetes and container orchestration<br>💬 Ask me about<br>Cloud infrastructure automation with Terraform<br>Managing Linux systems in cloud and hybrid environments<br>Troubleshooting complex cloud issues in Azure
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnubathala) 
 
