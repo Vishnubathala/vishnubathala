@@ -44,8 +44,3 @@
 ### ✍️ Random Dev Quote
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
----
-
-[![Profile Visits](https://visitcount.itsvg.in/api?id=vishnubathala&icon=7&color=7)](https://visitcount.itsvg.in)
-
